@@ -3,8 +3,7 @@
 No da venna
 
 ###
-Aiyooo AIyyooo
-
+Poche poche udanay
 ## Purpose
 
 Sample website with plenty of files for demos
